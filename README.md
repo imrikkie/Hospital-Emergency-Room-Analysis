@@ -1,7 +1,7 @@
 
 # Hospital Emergency Room Analysis Dashboard
 
-**Live Dashboard:** [Access the Power BI Report](YOUR_POWERBI_DASHBOARD_LINK)
+**Live Dashboard:** [Access the Power BI Report](https://app.powerbi.com/groups/me/reports/a1d8d255-3488-4a89-8811-4b308a41f3f0/0b9fbc8c6dbc6ba0c3bc?experience=power-bi)
 
 ---
 
@@ -120,9 +120,9 @@ The dashboard uncovers high ER utilization, with a fairly even split between adm
 ## Repository Structure
 
 ```
-  https://github.com/imrikkie/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20ER_Data.csv   # Raw patient visit dataset
+Hospital ER_Data.csv  # Raw patient visit dataset
 powerBI hospital data project .pdf # Pdf file of Project
-powerBI hospital data project.pbix         # Power BI project file
+powerBI hospital data project.pbix # Power BI project file
 README.md                 # This documentation file
 ```
 
