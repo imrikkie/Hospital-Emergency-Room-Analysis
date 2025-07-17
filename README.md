@@ -120,11 +120,10 @@ The dashboard uncovers high ER utilization, with a fairly even split between adm
 ## Repository Structure
 
 ```
-Hospital_ER_Data.csv      # Raw patient visit dataset
-ER_Dashboard.pbix         # Power BI project file
+  https://github.com/imrikkie/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20ER_Data.csv   # Raw patient visit dataset
+powerBI hospital data project .pdf # Pdf file of Project
+powerBI hospital data project.pbix         # Power BI project file
 README.md                 # This documentation file
 ```
 
 ---
-
-For inquiries or further details regarding the measures, data definitions, or report configuration, please contact the project author.
