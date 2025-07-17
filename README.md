@@ -1,7 +1,7 @@
 
 # Hospital Emergency Room Analysis Dashboard
 
-**Live Dashboard:** [Access the Power BI Report](https://app.powerbi.com/groups/me/reports/a1d8d255-3488-4a89-8811-4b308a41f3f0/0b9fbc8c6dbc6ba0c3bc?experience=power-bi)
+**Live Dashboard:** [Access the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a1d8d255-3488-4a89-8811-4b308a41f3f0/0b9fbc8c6dbc6ba0c3bc?experience=power-bi)
 
 ---
 
